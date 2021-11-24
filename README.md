@@ -34,4 +34,4 @@ This app implemented using Clean Architecture containing 3 main layers:
 
 
 ## Author
-Zahra Heydari
+Lak Wijewardane
