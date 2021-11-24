@@ -32,6 +32,3 @@ This app implemented using Clean Architecture containing 3 main layers:
 - Mockk
 - Leak canary (Memory leak identifier)
 
-
-## Author
-Lak Wijewardane
